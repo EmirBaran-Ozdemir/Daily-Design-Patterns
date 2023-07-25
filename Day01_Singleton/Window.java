@@ -1,4 +1,4 @@
-package Day1_Singleton;
+package Day01_Singleton;
 
 class Window {
     private static Window instance;
