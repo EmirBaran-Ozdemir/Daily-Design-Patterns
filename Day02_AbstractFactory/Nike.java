@@ -1,4 +1,4 @@
-package Day02_Factory;
+package Day02_AbstractFactory;
 
 public class Nike extends AbstractFactory {
     @Override

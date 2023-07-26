@@ -1,4 +1,4 @@
-package Day02_Factory;
+package Day02_AbstractFactory;
 
 public class NikeT_Shirt implements Cloth {
     @Override
